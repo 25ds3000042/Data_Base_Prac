@@ -44,4 +44,9 @@ WHERE student_id = 5;
 ALTER TABLE Students
 ADD email VARCHAR(100);
 
+SELECT *
+FROM Students
+WHERE age > 20
+AND marks > 80;
+
 -- DROP TABLE Students;

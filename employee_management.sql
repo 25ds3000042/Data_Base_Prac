@@ -1,6 +1,6 @@
--- ===========================================
--- Employee Management Database
--- ===========================================
+===========================================
+Employee Management Database
+===========================================
 
 CREATE DATABASE CompanyDB;
 USE CompanyDB;
